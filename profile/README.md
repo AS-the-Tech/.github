@@ -1,3 +1,8 @@
+<style>
+table, td, th {
+   border: none!important;
+}
+</style>
 # Welcome to AStheTech 🌈
 
 ## We are fascinated by how far we can go, not how far we have come! 🚀
