@@ -2,8 +2,6 @@
 
 ## We are fascinated by how far we can go, not how far we have come! 🚀
 
-<hr>
-
 # 🛠 Our Services
 
 <table style="border:none;">
