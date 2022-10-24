@@ -1,8 +1,3 @@
-<style>
-table, td, th {
-   border: none!important;
-}
-</style>
 # Welcome to AStheTech 🌈
 
 ## We are fascinated by how far we can go, not how far we have come! 🚀
@@ -11,7 +6,7 @@ table, td, th {
 
 # 🛠 Our Services
 
-<table border="0">
+<table style="border:0px solid #0D1117; width:100%;">
 
 <td>
 <div>
