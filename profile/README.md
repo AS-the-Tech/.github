@@ -6,7 +6,7 @@
 
 # 🛠 Our Services
 
-<table>
+<table border="none">
 
 <td>
 <div>
