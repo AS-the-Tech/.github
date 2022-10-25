@@ -1,4 +1,4 @@
-# Welcome to AStheTech 🌈
+# Welcome to AStheTech 
 
 ## We are fascinated by how far we can go, not how far we have come! 🚀
 # 🛠 Our Services
@@ -21,14 +21,14 @@ App Development
 <div>
     <img src="https://img.icons8.com/nolan/64/helping-hand.png"/>  
 </div> 
-Reliable Solutions
+AI & UI/UX Development
 
 </td>
 <td>
 <div>
     <img src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/000000/external-website-project-work-icongeek26-outline-gradient-icongeek26.png"/>  
 </div> 
-Personalised Consultation
+Revamping & Revfurbishing
 </td>
 </table>
 
@@ -38,7 +38,7 @@ Personalised Consultation
 <table>
 <td>
 <a href="https://asthetech.vercel.app/">
-  <img align="left" alt="AStheTech's Website" width="20px" src="https://simpleicons.now.sh/firefox/495f7e" />
+  <img align="left" alt="AStheTech's Website" width="20px" src="https://simpleicons.now.sh/sololearn/495f7e" />
 </a>
 </td><td>
 <a href="https://twitter.com/AStheTECH">
