@@ -6,26 +6,26 @@
 <table>
 
 <td>
-<div>
+<div align="center">
     <img src="https://img.icons8.com/external-fauzidea-gradient-fauzidea/64/000000/external-website-online-learning-fauzidea-gradient-fauzidea-2.png"/>  
 </div> 
 Website Development
 </td>
 <td>
-<div>
+<div align="center">
     <img src="https://img.icons8.com/nolan/64/medical-mobile-app.png"/>  
 </div> 
 App Development
 </td>
 <td>
-<div>
+<div align="center">
     <img src="https://img.icons8.com/nolan/64/helping-hand.png"/>  
 </div> 
 AI & UI/UX Development
 
 </td>
 <td>
-<div>
+<div align="center">
     <img src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/000000/external-website-project-work-icongeek26-outline-gradient-icongeek26.png"/>  
 </div> 
 Revamping & Revfurbishing
